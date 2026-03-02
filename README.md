@@ -1,2 +1,2 @@
 # Sumo-Bot-Code
-Code for my sumo Bot.
+Code for my Sumo Bot.
